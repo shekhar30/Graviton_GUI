@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="NEW">
+    <file>Icons/nozzle_up-256.png</file>
+    <file>Icons/nozzle_x2-512.png</file>
+    <file>Icons/list.png</file>
+    <file>Icons/wifi (1).png</file>
+    <file>Icons/stop.png</file>
+    <file>Icons/pause-button.png</file>
+    <file>Icons/file.png</file>
+    <file>Icons/folder.png</file>
+    <file>Icons/folder1.png</file>
+    <file>Icons/bed_hot-256.png</file>
+    <file>Icons/play.png</file>
+    <file>Icons/003-metal-and-carbon-fiber-pattern-background-texture.jpg</file>
+    <file>Icons/3d-printer-settings-symbol.png</file>
+    <file>Icons/arrow-angle-pointing-to-right (1).png</file>
+    <file>Icons/carbon-fiber-pattern1-png.png</file>
+    <file>Icons/descendant-arrow-angle (1).png</file>
+    <file>Icons/edit.png</file>
+    <file>Icons/folder (2).png</file>
+    <file>Icons/gears.png</file>
+    <file>Icons/home (2).png</file>
+    <file>Icons/left-arrow-angle (1).png</file>
+    <file>Icons/pause-button.png</file>
+    <file>Icons/play.png</file>
+    <file>Icons/reply-all-button.png</file>
+    <file>Icons/thermometer (2).png</file>
+    <file>Icons/levels (2).png</file>
+    <file>Icons/up-arrow-angle (2).png</file>
+    <file>Icons/usb (2).png</file>
+    <file>Icons/web-page-home.png</file>
+  </qresource>
+</RCC>
